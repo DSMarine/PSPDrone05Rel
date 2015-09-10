@@ -1,0 +1,9 @@
+*.project
+*.o
+*.elf
+*.SFO
+*.PBP
+*.cproject
+*.db
+*.bat
+*.PRX
