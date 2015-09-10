@@ -14,16 +14,16 @@ El dron se puede comandar desde el menu, pero los botones [], O y el PAD cambian
 
 EN
 Controls
-D.Pad: Perform a flip, drirection according to the arrow used (V2 drones only)
+D.Pad: Perform a flip, direction according to the arrow used (V2 drones only)
 Analog: Strafe and move forward/backward
 /\ climb
-X descent
+X descend
 O Take off
 [] Landing
 L CCW Rotate
 R CW Rotate
 START: Menu
-Drone can still be controlled within menu screen, but [], O and D.PAD has other functions.
+Drone can still be controlled within menu screen, but [], O and D.PAD have other functions.
 
 Known bugs:
 It might take many key presses for the drone to take off.
